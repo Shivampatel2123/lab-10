@@ -1,5 +1,3 @@
-# Accept contact details from the user and create a vcard that we can directly store in our mobile.
-
 import csv
 
 with open("Q3.vcf", "w") as f:
